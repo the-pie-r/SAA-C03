@@ -21,8 +21,8 @@ Same content as the original syllabus — nothing in the modules, learning objec
 | Day 15 | Module 15: Live Assessment III — Proctored assessment covering Class 14 (Monitoring & Optimization) plus a cumulative review of prior modules | 1.5 -3  hrs |  (Assessment session) |
 | Day 16 | Module 16: High Availability, Fault Tolerance, and Disaster Recovery — Design architectures that remain available under component failure; Differentiate high availability from fault tolerance and disaster recovery; Select the appropriate DR strategy for a given RTO/RPO; Cross-Region replication strategies | 1.5 -3 hrs | Lab on situation based |
 | Day 17 | Module 17: Application Integration — Decouple application components using messaging and notification services; Design event-driven architectures using EventBridge; Choose between SNS, SQS, Amazon MQ, and EventBridge | 1.5 -3 hrs | Create an SNS topic and subscribe an email endpoint and an SQS queue (fan-out pattern) |
-| Day 18 | Module 18: Exam Preparation & Practice — Understand the exam format, domains, and scoring methodology; Practice with realistic, scenario-based sample questions; Build a personalized exam-day strategy |  hrs |  |
+
 | Day 18 | Module 18: Exam Preparation & Practice — Understand the exam format, domains, and scoring methodology; Practice with realistic, scenario-based sample questions; Build a personalized exam-day strategy |  hrs |  |
 | Day 19 | Module 19: Global Exam Paper Discussion — Guided, question-by-question review of a global/practice exam paper; Clarify doubts on tricky, scenario-based questions; Reinforce concepts through peer discussion and instructor explanation | 1.5 -3 hrs | |
 | Day 20 | Module 20: Live Assessment IV (Final Mock Assessment) — Full-length, proctored mock assessment simulating the complete AWS Certified Solutions Architect – Associate exam experience across all domains | 1.5 -3 hrs |  (Assessment session) |
-| Day 21 | Final Exam — Certification-style final examination | 1.5 -3 hrs |  |
+
